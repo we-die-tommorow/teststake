@@ -495,7 +495,7 @@ li .connectBtn {
   text-overflow: ellipsis;
   background-color: transparent;
   cursor:pointer;
-  border: 2px solid blue;
+  border: 2px solid #03e9f4;
   border-radius: .5rem;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   
@@ -653,11 +653,11 @@ p a {
 
 .bg-primary {
     opacity: 1;
-    background-color: blue;
+    background-color: #03e9f4;
 }
 
 .dot {
-    background-color: blue;
+    background-color: #03e9f4;
     border-radius: 9999px;
 }
 
@@ -1182,10 +1182,10 @@ table a {
 .chiko {
     font-family: 'Rubik Dirt', cursive;
     text-align: center;
-    font-size: 65px;
-    margin-top: 70px; /* adjust the value as needed */
-    color: blue
-    
+    font-size: 70px;
+    margin-top: 70px;
+    color: #ffffff;
+    text-shadow: 0px 0px 20px #03e9f4;
   }
 
   @import url('https://fonts.googleapis.com/css?family=Baloo+Thambi');
@@ -1208,7 +1208,7 @@ table a {
   
   .text-container {
     font-family: 'Rubik Dirt', cursive;
-    font-size: 120px;
+    font-size: 180px;
     text-transform: uppercase;
     text-align: center; /* center the text */
     margin: auto; /* center the text horizontally */
@@ -1292,7 +1292,7 @@ table a {
 
 
   .roger {
-    color: blue;
+    color: #03e9f4;
     font-family: 'Fredoka One', cursive;
     font-size: 16px;
     margin-top: 5px;
