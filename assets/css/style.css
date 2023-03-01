@@ -489,7 +489,7 @@ li .connectBtn {
   padding: 10px 16px;
   text-decoration: none;
   border-left: 1px solid #000;
-  max-width: 170px;
+  
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -1182,8 +1182,9 @@ table a {
 .chiko {
     font-family: 'Rubik Dirt', cursive;
     text-align: center;
-    font-size: 92px;
+    font-size: 65px;
     margin-top: 70px; /* adjust the value as needed */
+    color: blue
     
   }
 
@@ -1291,14 +1292,14 @@ table a {
 
 
   .roger {
-    color:blue;
+    color: blue;
     font-family: 'Fredoka One', cursive;
-    font-size: 30px;
-   margin-top: 10;
-   margin-bottom: 10;
-   line-height: 60px;
+    font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    line-height: 40px;
     
-}
+    }
 
 
 
